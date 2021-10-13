@@ -1,0 +1,14 @@
+{
+  "name": "roidesteur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "/"
+  },
+  "author": "Xax",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.2.0"
+  }
+}
